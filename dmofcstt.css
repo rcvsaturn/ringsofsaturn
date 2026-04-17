@@ -23,6 +23,7 @@
     font: 3.5vw 'Aranta';
     color: var(--acc);
     line-height: 1;
+    text-transform: capitalize;
 }
 .cst-pf {
     width: 85%;
